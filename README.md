@@ -1,2 +1,3 @@
 # MongoDB
-A repository with all my MongoDB programs and projects
+Here you'll find all my MongoDB programs and projects that I have done over the years
+
